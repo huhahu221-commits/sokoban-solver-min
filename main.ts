@@ -1,1 +1,1 @@
-eval(atob(process.env.SOKOBAN_ENGINE_V1))
+eval(atob(process.env.A))
